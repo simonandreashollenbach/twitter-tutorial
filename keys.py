@@ -8,12 +8,12 @@ This file contains your Twitter keys
 
 """
 
-consumer_key='insert your API key'
+consumer_key='tKHLH976MpObRTV7ZOEqJSdCY'
 
-consumer_secret='insert your API secret'
+consumer_secret='J8IChPqTB9NHEgCGFQaVMw3231RXnbqtloIQc8PJWLiV4ToMAX'
 
-access_token='insert your access token'
+access_token='2866110094-86RzD0Pxxva7D5C36RViRTIwbu5aoM41GVkJemE'
 
-access_token_secret='insert your access token secret'
+access_token_secret='T4bRV2g8q4ChWB31xvxBSgemJTpYgpemJeArSmnxok1au'
 
-bearer_token='insert your bearer token'
+bearer_token='AAAAAAAAAAAAAAAAAAAAAJhgiQEAAAAAA%2FtJaqRRJ9rqnP0yrejeZWjdfEM%3DRgvPRZX2nI8ErOCVKLQVkeZXcZgMR2OETZGgMfeYPN6AprKrTi'
