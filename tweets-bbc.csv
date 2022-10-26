@@ -1,48 +1,48 @@
-,author_id,edit_history_tweet_ids,text,id,created_at
-0,5402612,['1584862619642503169'],"Prime Minister Rishi Sunak says he will fix mistakes made by Liz Truss as he warns of ""profound economic crisis"" facing UK https://t.co/3H0QNHnjHy",1584862619642503169,2022-10-25T11:01:08.000Z
-1,5402612,['1584857155605336070'],"See the moment Rishi Sunak meets King Charles at Buckingham Palace as he becomes the UK's third prime minister in a year
+,id,created_at,author_id,text,edit_history_tweet_ids
+0,1584862619642503169,2022-10-25T11:01:08.000Z,5402612,"Prime Minister Rishi Sunak says he will fix mistakes made by Liz Truss as he warns of ""profound economic crisis"" facing UK https://t.co/3H0QNHnjHy",['1584862619642503169']
+1,1584857155605336070,2022-10-25T10:39:25.000Z,5402612,"See the moment Rishi Sunak meets King Charles at Buckingham Palace as he becomes the UK's third prime minister in a year
 
-Follow live https://t.co/o7bBlTVHuj",1584857155605336070,2022-10-25T10:39:25.000Z
-2,5402612,['1584838786197987328'],"""I know brighter days lie ahead""
+Follow live https://t.co/o7bBlTVHuj",['1584857155605336070']
+2,1584838786197987328,2022-10-25T09:26:26.000Z,5402612,"""I know brighter days lie ahead""
 
 UK's shortest-serving PM Liz Truss leaves Downing Street with family
 
-https://t.co/QB6qhBeRhw",1584838786197987328,2022-10-25T09:26:26.000Z
-3,5402612,['1584600252509786124'],Rishi Sunak to take over as UK prime minister on Tuesday morning after meeting King Charles https://t.co/In2OeLINAr,1584600252509786124,2022-10-24T17:38:35.000Z
-4,5402612,['1584565235125477379'],"""I pledge that I will serve you with integrity and humility""
+https://t.co/QB6qhBeRhw",['1584838786197987328']
+3,1584600252509786124,2022-10-24T17:38:35.000Z,5402612,Rishi Sunak to take over as UK prime minister on Tuesday morning after meeting King Charles https://t.co/In2OeLINAr,['1584600252509786124']
+4,1584565235125477379,2022-10-24T15:19:26.000Z,5402612,"""I pledge that I will serve you with integrity and humility""
 
 Rishi Sunak promises to ""work day in day out to deliver for the British people"" in first public speech since being named next UK PM
 
-https://t.co/NyKXVGLzMu https://t.co/rpSRFJU5rs",1584565235125477379,2022-10-24T15:19:26.000Z
-5,5402612,['1584563215362654208'],Rishi Sunak speaks publicly for the first time since being named UK's next prime minister https://t.co/g6bF6rATit,1584563215362654208,2022-10-24T15:11:24.000Z
-6,5402612,['1584533187186794497'],"@BBCNews Sir Graham Brady, chairman of 1922 Committee of Conservative MPs, announces Rishi Sunak as Tory leader and next prime minister
+https://t.co/NyKXVGLzMu https://t.co/rpSRFJU5rs",['1584565235125477379']
+5,1584563215362654208,2022-10-24T15:11:24.000Z,5402612,Rishi Sunak speaks publicly for the first time since being named UK's next prime minister https://t.co/g6bF6rATit,['1584563215362654208']
+6,1584533187186794497,2022-10-24T13:12:05.000Z,5402612,"@BBCNews Sir Graham Brady, chairman of 1922 Committee of Conservative MPs, announces Rishi Sunak as Tory leader and next prime minister
 
-https://t.co/LRsb5raqCz https://t.co/4RHJCIL2gD",1584533187186794497,2022-10-24T13:12:05.000Z
-7,5402612,['1584530924506595328'],"Rishi Sunak set to become the UK's first British Asian prime minister, as Penny Mordaunt withdraws from Conservative Party leadership race https://t.co/j4eDEaS62O",1584530924506595328,2022-10-24T13:03:06.000Z
-8,5402612,['1584275907090714624'],Boris Johnson drops out of race to be UK Conservative Party leader and PM - follow live updates https://t.co/MeuMirLS9K,1584275907090714624,2022-10-23T20:09:45.000Z
-9,5402612,['1584039298755547137'],"Xi Jinping secures a historic third term, cementing his position as China's most powerful leader since Mao Zedong https://t.co/nw8GK6Jik4",1584039298755547137,2022-10-23T04:29:33.000Z
-10,5402612,['1583769709689769984'],"12-year-old boy dies and man pulled from rubble after garage wall collapses in Essex, UK 
-https://t.co/UEYhzPq1dv",1583769709689769984,2022-10-22T10:38:18.000Z
-11,5402612,['1583519424166129664'],"Committee investigating former US President Donald Trump over 6 January riots issues summons ordering him to testify and hand over key documents
+https://t.co/LRsb5raqCz https://t.co/4RHJCIL2gD",['1584533187186794497']
+7,1584530924506595328,2022-10-24T13:03:06.000Z,5402612,"Rishi Sunak set to become the UK's first British Asian prime minister, as Penny Mordaunt withdraws from Conservative Party leadership race https://t.co/j4eDEaS62O",['1584530924506595328']
+8,1584275907090714624,2022-10-23T20:09:45.000Z,5402612,Boris Johnson drops out of race to be UK Conservative Party leader and PM - follow live updates https://t.co/MeuMirLS9K,['1584275907090714624']
+9,1584039298755547137,2022-10-23T04:29:33.000Z,5402612,"Xi Jinping secures a historic third term, cementing his position as China's most powerful leader since Mao Zedong https://t.co/nw8GK6Jik4",['1584039298755547137']
+10,1583769709689769984,2022-10-22T10:38:18.000Z,5402612,"12-year-old boy dies and man pulled from rubble after garage wall collapses in Essex, UK 
+https://t.co/UEYhzPq1dv",['1583769709689769984']
+11,1583519424166129664,2022-10-21T18:03:45.000Z,5402612,"Committee investigating former US President Donald Trump over 6 January riots issues summons ordering him to testify and hand over key documents
 
-https://t.co/nyTBEswtw4",1583519424166129664,2022-10-21T18:03:45.000Z
-12,5402612,['1583476271224279040'],"Ex-US President Donald Trump's former top adviser Steve Bannon sentenced to four months in jail after refusing to testify to Congress over 6 January riots
+https://t.co/nyTBEswtw4",['1583519424166129664']
+12,1583476271224279040,2022-10-21T15:12:17.000Z,5402612,"Ex-US President Donald Trump's former top adviser Steve Bannon sentenced to four months in jail after refusing to testify to Congress over 6 January riots
 
-https://t.co/ZLokZccSuN",1583476271224279040,2022-10-21T15:12:17.000Z
-13,5402612,['1583404687667040262'],"Labour MP Christian Matheson should be suspended from UK House of Commons for four weeks for ""serious sexual misconduct"", says parliamentary watchdog https://t.co/xISPV08MuR",1583404687667040262,2022-10-21T10:27:50.000Z
-14,5402612,['1583348970675240963'],"UK government borrowing rose last month, and retail sales fell as shops were hit by cost-of-living concerns and Queen’s funeral closures https://t.co/M1jBKJjECQ",1583348970675240963,2022-10-21T06:46:26.000Z
-15,5402612,['1583085792377044993'],"Anne Sacoolas admits causing Harry Dunn's death by careless driving in 2019, in case that sparked row between US and UK governments https://t.co/FCOqqmPTx3",1583085792377044993,2022-10-20T13:20:39.000Z
-16,5402612,['1583076192873168896'],"""I cannot deliver the mandate on which I was elected by the Conservative Party""
+https://t.co/ZLokZccSuN",['1583476271224279040']
+13,1583404687667040262,2022-10-21T10:27:50.000Z,5402612,"Labour MP Christian Matheson should be suspended from UK House of Commons for four weeks for ""serious sexual misconduct"", says parliamentary watchdog https://t.co/xISPV08MuR",['1583404687667040262']
+14,1583348970675240963,2022-10-21T06:46:26.000Z,5402612,"UK government borrowing rose last month, and retail sales fell as shops were hit by cost-of-living concerns and Queen’s funeral closures https://t.co/M1jBKJjECQ",['1583348970675240963']
+15,1583085792377044993,2022-10-20T13:20:39.000Z,5402612,"Anne Sacoolas admits causing Harry Dunn's death by careless driving in 2019, in case that sparked row between US and UK governments https://t.co/FCOqqmPTx3",['1583085792377044993']
+16,1583076192873168896,2022-10-20T12:42:31.000Z,5402612,"""I cannot deliver the mandate on which I was elected by the Conservative Party""
 
 UK Prime Minister Liz Truss resigns
 
-https://t.co/O5kO1WJ4tY https://t.co/Gq6FtOGNIP",1583076192873168896,2022-10-20T12:42:31.000Z
-17,5402612,['1583075323972763651'],"There will be a leadership election within a week, UK Prime Minister Liz Truss says in resignation statement https://t.co/WdW4QypDkd",1583075323972763651,2022-10-20T12:39:04.000Z
-18,5402612,['1583074397765918721'],Liz Truss to resign as UK prime minister after 45 days in office https://t.co/WdW4QyHMyl,1583074397765918721,2022-10-20T12:35:23.000Z
-19,5402612,['1582769682821828609'],"Grant Shapps to be UK home secretary after Suella Braverman's departure six weeks into the job 
+https://t.co/O5kO1WJ4tY https://t.co/Gq6FtOGNIP",['1583076192873168896']
+17,1583075323972763651,2022-10-20T12:39:04.000Z,5402612,"There will be a leadership election within a week, UK Prime Minister Liz Truss says in resignation statement https://t.co/WdW4QypDkd",['1583075323972763651']
+18,1583074397765918721,2022-10-20T12:35:23.000Z,5402612,Liz Truss to resign as UK prime minister after 45 days in office https://t.co/WdW4QyHMyl,['1583074397765918721']
+19,1582769682821828609,2022-10-19T16:24:33.000Z,5402612,"Grant Shapps to be UK home secretary after Suella Braverman's departure six weeks into the job 
 
-https://t.co/5malFS8MfF",1582769682821828609,2022-10-19T16:24:33.000Z
-20,5402612,['1582757875297812480'],"Suella Braverman has resigned as UK home secretary, adding to turmoil in PM Liz Truss's government 
+https://t.co/5malFS8MfF",['1582769682821828609']
+20,1582757875297812480,2022-10-19T15:37:38.000Z,5402612,"Suella Braverman has resigned as UK home secretary, adding to turmoil in PM Liz Truss's government 
 
-https://t.co/rucD2imFmC",1582757875297812480,2022-10-19T15:37:38.000Z
-21,5402612,['1582730264874303488'],"Hong Kong pro-democracy protester gives his account of violence at China's consulate in Manchester, UK https://t.co/WNK7QOxur4",1582730264874303488,2022-10-19T13:47:55.000Z
+https://t.co/rucD2imFmC",['1582757875297812480']
+21,1582730264874303488,2022-10-19T13:47:55.000Z,5402612,"Hong Kong pro-democracy protester gives his account of violence at China's consulate in Manchester, UK https://t.co/WNK7QOxur4",['1582730264874303488']
